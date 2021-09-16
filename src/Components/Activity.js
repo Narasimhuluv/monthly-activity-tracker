@@ -45,7 +45,7 @@ function Activity(props) {
                 ))
               }
             </div>
-            <div className="absolute right-4">
+            <div className="absolute right-4 top-1">
               <i className="fas fa-times-circle cursor-pointer text-red-400 text-2xl" id={i}  onClick={(e) => props.handleRemove(e)} ></i>
             </div>
           </div>
