@@ -7,14 +7,6 @@ function Activity(props) {
       }
       return days;
     }
-
-
-
-
-
-
-
-    
     var months = [
       'January',
       'February',

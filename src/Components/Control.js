@@ -1,7 +1,7 @@
 import React from 'react';
 import Activity from './Activity';
 
-class Main extends React.Component {
+class Control extends React.Component {
     constructor(props){
         super();
         this.state = {
@@ -123,4 +123,4 @@ class Main extends React.Component {
     }
 }
 
-export default Main;
+export default Control;
